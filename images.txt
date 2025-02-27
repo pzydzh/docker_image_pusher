@@ -11,6 +11,7 @@
 # openmmlab/lmdeploy:v0.7.0.post3-cu12
 lmsysorg/sglang:v0.4.3.post2-cu121
 vllm/vllm-openai:v0.7.2
+vllm/vllm-openai:v0.7.3
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
