@@ -15,7 +15,8 @@
 # vllm/vllm-openai:v0.7.2
 # vllm/vllm-openai:v0.7.3
 # vllm/vllm-openai:v0.6.6
-vllm/vllm-openai:v0.8.5
+# vllm/vllm-openai:v0.8.5
+hiyouga/verl:ngc-th2.6.0-cu126-vllm0.8.4-flashinfer0.2.2-cxx11abi0
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
