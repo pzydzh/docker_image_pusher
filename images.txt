@@ -17,7 +17,9 @@
 # vllm/vllm-openai:v0.6.6
 # vllm/vllm-openai:v0.8.5
 # hiyouga/verl:ngc-th2.6.0-cu126-vllm0.8.4-flashinfer0.2.2-cxx11abi0
-qwenllm/qwen-omni:2.5-cu121
+# qwenllm/qwen-omni:2.5-cu121
+tensorflow/serving:latest-gpu
+tensorflow/serving:2.19.0-gpu
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
